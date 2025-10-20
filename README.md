@@ -23,3 +23,6 @@ User Interface (UI): Web or mobile interface
 AI Recommendation Engine: Suggests furniture and decor items
 
 AR Visualization Module: Overlays furniture in real space
+
+Sample UI/UX Design App with figmaMake
+https://www.figma.com/make/2yeRngQkAoJRWAzFh777jh/Home-Decor-App-Screens?node-id=0-1&t=IaGxtJjtdK8pWY7e-1
