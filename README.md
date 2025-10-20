@@ -6,23 +6,23 @@ Design-Your-Dream-Space is an AI and Augmented Reality (AR) home decor assistant
 
 Features
 
-AI-powered furniture and decor recommendations
+->AI-powered furniture and decor recommendations
 
-AR visualization to see items in your space
+->AR visualization to see items in your space
 
-Personalized suggestions based on user style
+->Personalized suggestions based on user style
 
-Integrated shopping links for recommended items
+->Integrated shopping links for recommended items
 
-User-friendly interface for interactive room design
+->User-friendly interface for interactive room design
 
-System Architecture
+->System Architecture
 
-User Interface (UI): Web or mobile interface
+->User Interface (UI): Web or mobile interface
 
-AI Recommendation Engine: Suggests furniture and decor items
+->AI Recommendation Engine: Suggests furniture and decor items
 
-AR Visualization Module: Overlays furniture in real space
+->AR Visualization Module: Overlays furniture in real space
 
-Sample UI/UX Design App with figmaMake
+->Sample UI/UX Design App with figmaMake
 https://www.figma.com/make/2yeRngQkAoJRWAzFh777jh/Home-Decor-App-Screens?node-id=0-1&t=IaGxtJjtdK8pWY7e-1
